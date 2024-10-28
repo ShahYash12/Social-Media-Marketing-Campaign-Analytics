@@ -1,4 +1,4 @@
-Marketing Analytics Project: Squatty Potty Case Study
+**Marketing Analytics Project: Squatty Potty Case Study**
 
 Overview
 This project involves a marketing analytics analysis of the viral video campaign from Squatty Potty. The main objective was to assess the effectiveness of Squatty Potty’s campaign strategies, forecast future campaign outcomes, and identify potential areas for improvement based on historical data. This analysis provides insights into key marketing metrics, consumer response to advertising efforts, and recommendations for future campaigns.
